@@ -1,7 +1,7 @@
 package com.binaryTree;
 
 /* Class containing left and right child of current
-node and key value*/
+node and key value */
 public class Node {
 	int key;
 	Node left;
